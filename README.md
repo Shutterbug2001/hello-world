@@ -2,4 +2,4 @@
 
 Hello,
 
-My name is Nicholle and am a Salesforce Administrator.
+My name is Nicholle and I am a Salesforce Administrator.
